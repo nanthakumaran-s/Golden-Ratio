@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Golden Ratio</string>
+    <string name="golden">Golden</string>
+    <string name="ratio">Ratio</string>
+    <string name="start_tour">Start Tour</string>
+    <string name="golden_ratio_image">Golden Ratio Image</string>
+    <string name="home">Home</string>
+    <string name="application">Collections</string>
+    <string name="head_text_1">Can you imagine this picture without Golden Ratio, can’t you? Golden Ratio plays an important role in this visually appealing environment. This stands as a measure of beauty and the usage of the Golden Ratio in Art and Architecture, make that as a monument.</string>
+    <string name="head_text_2">Golden Mean, Golden Selection, Medial Selection, Divine Proportion, Divine Selection and a lot more list out. These are some of the alternative names of Golden Ratio.</string>
+    <string name="head_text_3">Many Mathematicians and Artist have stunned by this number 1.6180339887…. </string>
+    <string name="dialog_title">"Golden Ratio is Everywhere around us"</string>
+    <string name="dialog_text">"Actually, 1.6180339887 seems to be applied everywhere around us. From a flower to a great building… We need to have a special eye to view those details."</string>
+    <string name="a_minute_about_golden_ratio">A minute about Golden Ratio</string>
+    <string name="take_a_look">Take a Look</string>
+    <string name="creators"><![CDATA[Made with ❤ by Nanthakumaran & Riyazur Razak]]></string>
+    <string name="interaction">Guess What?</string>
+    <string name="solve_with_golden_ratio">Solve with the help of Golden Ratio</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="check">Check</string>
+    <string name="slider1_title">"History"</string>
+    <string name="slider1_description">"Mathematicians, scientists, and naturalists have known about the golden ratio for centuries. The golden ratio was studied peripherally over the next millennium. Abu Kamil employed it in his geometric calculations of pentagons and decagons; his writings influenced that of Fibonacci, who used the ratio in related geometry problems, though never connected it to the series of numbers named after him."</string>
+    <string name="slider2_title">"Mathematical Relation"</string>
+    <string name="slider2_description">"We saw above that the Golden Ratio has this property a/b = a+b/a. We can split the right-hand fraction like this: a/b = a/a + b/a. a/b is the Golden Ratio φ, a/a = 1 and  b/a = 1/φ, which gets us: φ = 1 + 1/φ. So the Golden Ratio can be defined in terms of itself! Let us test it using just a few digits of accuracy: φ = 1 + 1/1.618 = 1 + 0.61805… =\t1.61805... With more digits we would be more accurate."</string>
+    <string name="slider3_title">"Phi"</string>
+    <string name="slider3_description">"But this sequence is not all that important; rather, the essential part is the quotient of the adjacent number that possess an amazing proportion, roughly 1.618, or its inverse 0.618. This proportion is known by many names: the golden ratio, the golden mean, PHI, and the divine proportion, among others. So, why is this number so important?"</string>
+    <string name="slider4_title">"Number matters"</string>
+    <string name="slider4_description">"Well, almost everything has dimensional properties that adhere to the ratio of 1.618, so it seems to have a fundamental function for the building blocks of nature. The golden ratio describes predictable patterns on everything from atoms to huge stars in the sky"</string>
+    <string name="slider5_title">"Golden Ratio Finder"</string>
+    <string name="slider5_description">"The Golden Section Finder, designed for AreaWare, is a thin, pocket-sized card that helps you locate proportional perfection in your environment. Coming in either a bright neon yellow or transparent blue, the finder helps you see the Golden Ratio come alive in anything and everything around you"</string>
+</resources>
